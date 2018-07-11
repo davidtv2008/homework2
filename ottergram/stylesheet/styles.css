@@ -137,22 +137,16 @@ body {
   width: 100%;
 }
 
-.previous-button{
-    color: black;
-    font-size: 40px;
-    text-align: center;
+.previous-button {
+  color: black;
+  font-size: 40px;
+  text-align: center;
 }
 
 .next-button {
-    color: black;
-    font-size: 40px;
-    text-align: center;
-}
-
-.previous-container {
-}
-
-.next-container {
+  color: black;
+  font-size: 40px;
+  text-align: center;
 }
 
 @media all and (min-width: 768px) {
